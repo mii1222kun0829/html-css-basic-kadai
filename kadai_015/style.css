@@ -20,6 +20,7 @@ h1{
   color: rgb(255,192,203);
 }
 
-#basic > P{
+/* ＃と＞を用いて特定の部分に反映できる */
+#basic > p{
   font-weight: bold;
 }
