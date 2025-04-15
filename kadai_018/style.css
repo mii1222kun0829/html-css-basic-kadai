@@ -12,13 +12,12 @@
   display: inline-block;
 }
 #middle{
-  position: relative;
   width: 800px;
   height: 800px;
   text-align: center;
   background-color: #ffd9df;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin: 20px auto; 
+  position: relative;
 }
 #middle-child01{
   width: 200px;
